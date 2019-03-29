@@ -1,0 +1,11 @@
+F:\Git\Current\bin\Debug\netcoreapp2.1\Current.deps.json
+F:\Git\Current\bin\Debug\netcoreapp2.1\Current.runtimeconfig.json
+F:\Git\Current\bin\Debug\netcoreapp2.1\Current.runtimeconfig.dev.json
+F:\Git\Current\bin\Debug\netcoreapp2.1\Current.dll
+F:\Git\Current\bin\Debug\netcoreapp2.1\Current.pdb
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.csprojAssemblyReference.cache
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.csproj.CoreCompileInputs.cache
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.AssemblyInfoInputs.cache
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.AssemblyInfo.cs
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.dll
+F:\Git\Current\obj\Debug\netcoreapp2.1\Current.pdb
